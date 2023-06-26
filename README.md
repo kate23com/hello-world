@@ -1,2 +1,3 @@
 # hello-world
-Add new test repo
+
+*Hello, i'm Kate*
